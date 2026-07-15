@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI",
+  "description": "Un motor de inteligencia artificial para generar estrategias de marketing digital y roadmaps de ejecución hiper-personalizados para marcas de alto rendimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
